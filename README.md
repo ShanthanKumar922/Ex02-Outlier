@@ -79,24 +79,23 @@ df1_new.boxplot()
 ```
 # OUPUT
 ## Removing Outliers - bhp.csv
-![Removing Outliers](/images/img1.png)
-![Removing Outliers](/images/img2.png)
+![img1](https://user-images.githubusercontent.com/127843136/227731877-d2981784-8d77-4e17-8b4c-8df5a8321b2a.png)
+![img2](https://user-images.githubusercontent.com/127843136/227731884-94c8cd3d-0eae-40f9-a6b5-38a051e3f4ab.png)
 ## Using IQR method to remove Outliers of price_per_sqft
-![Removing Outliers](/images/img3.png)
+![img3](https://user-images.githubusercontent.com/127843136/227731894-f461dc1f-1258-4fb4-9872-95ae140a67ae.png)
 ## Removing non-numerical columns
-![Removing Outliers](/images/img4.png)
+![img4](https://user-images.githubusercontent.com/127843136/227731899-78470890-7647-41f5-8495-243e529db14e.png)
 ## Using z-score of 3 method to remove Outliers of price_per_sqft
-![Removing Outliers](/images/img5.png)
-![Removing Outliers](/images/img6.png)
-
+![img5](https://user-images.githubusercontent.com/127843136/227731907-6b7faad5-6998-4f20-8d14-a523b10bd287.png)
+![img6](https://user-images.githubusercontent.com/127843136/227731919-7d562fca-d6e6-4998-9a2a-0abfda8655a4.png)
 ## Removing Outliers - height_weight.csv
-![Removing Outliers](/images/imag1.png)
+![image1](https://user-images.githubusercontent.com/127843136/227731926-e0c01378-151d-47c8-a13d-233f595e9e8b.png)
 ## Removing non numerical columns
-![Removing Outliers](/images/imag2.png)
-![Removing Outliers](/images/imag3.png)
+![image2](https://user-images.githubusercontent.com/127843136/227731941-4482a162-6557-41dc-9b45-0a3a7e651920.png)
+![image3](https://user-images.githubusercontent.com/127843136/227731946-d4fbec8c-4656-412e-a324-c195052b2fed.png)
 ## Removing Outliers of weight using IQR
-![Removing Outliers](/images/imag4.png)
+![image4](https://user-images.githubusercontent.com/127843136/227731951-659f8f76-12f0-437b-9a87-3697f12e6144.png)
 ## Removing Outliers of height using IQR
-![Removing Outliers](/images/imag5.png)
+![image5](https://user-images.githubusercontent.com/127843136/227731957-7a9d4a25-6653-44ce-a230-2ad20969fb47.png)
 # RESULT
 Thus the outliers are detected and removed in the given file and the final data set is saved into the file.
